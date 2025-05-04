@@ -9,11 +9,13 @@ Embora o foco deste projeto seja em Machine Learning, a estrutura pode ser aplic
 ## Estrutura do Projeto
 
 ml-auto-test/
+```
 ├── app/                  -> Código do modelo
 ├── tests/                -> Testes automatizados
 ├── .github/workflows/    -> Configuração do GitHub Actions
 ├── requirements.txt      -> Dependências
 └── README.md             -> Documentação
+````
 
 ## Descrição
 
