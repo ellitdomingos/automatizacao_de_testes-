@@ -1,4 +1,4 @@
-# Automatização de Testes no Git com GitHub Actions
+# Automatização de Testes no Git com GitHub Actions.
 
 Este projeto demonstra como automatizar testes em um pipeline de Machine Learning diretamente no fluxo de versionamento com Git e GitHub Actions.
 
