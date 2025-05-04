@@ -32,3 +32,6 @@ Navegue até o diretório do projeto e execute:
 
 ```bash
 pip install -r requirements.txt
+
+
+![image](https://github.com/user-attachments/assets/8143d8f4-7df3-486e-9ac7-65dd1aeaa366)
